@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://doodax.com" target="_blank">
+  <a href="https://doodax.com/tools/ai-business-card-maker/index.html" target="_blank">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
